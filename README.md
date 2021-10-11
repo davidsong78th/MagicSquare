@@ -12,3 +12,8 @@ Dr. Richard Goodrum
 - The server is then required to verify whether or not the sequence supplied represents a magic square and provide a T/F response.
 
 - The multiprocess application was created using the fork() system call.
+
+# To Execute
+
+1. Open terminal, and type "gcc -o pgm1 pgm1.c".
+2. Type "./pgm1". Then follow the instructions.
