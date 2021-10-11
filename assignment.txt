@@ -1,0 +1,12 @@
+CE 4348 Operating System Concepts
+
+Dr. Richard Goodrum
+
+Pgm1
+
+1. If necessary, download and install VirtualBox.
+2. Download the ISO for Ubuntu 20.04 LTS
+3. Create an environment using the Ubuntu ISO
+4. Write a multiprocess, C/C++ program which uses getdomainname, gethostname, and uname to get and display system information about machine. Furthermore, this application is to use pipes to communicate a nine-digit, text formatted value from the client to the server. The server is then required to verify whether or not the sequence supplied represents a magic square and provide a T/F response. If named pipes are used, the pipe name must include the student eLearning login and the pipe must be properly cleaned up prior to the program's termination. The multiprocess application may be written either as two separate mains or created using the fork() system call. A threaded application is unacceptable and will result in a grade of zero.
+5. Tie the output of the program to the Ubuntu installation in use.
+6. Upload report and code here.
